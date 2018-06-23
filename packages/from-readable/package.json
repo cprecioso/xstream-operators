@@ -1,6 +1,6 @@
 {
   "name": "xstream-from-readable",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Turns a Node.js Readable into an Xstream",
   "homepage": "https://github.com/cprecioso/xstream-operators/tree/master/packages/from-readable#readme",
   "bugs": {
