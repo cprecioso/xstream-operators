@@ -17,6 +17,7 @@ Note that this function will start consuming the stream, and the resulting value
 import reduce from "xstream-reduce"
 
 // ...
+
 const goalsByTeam = goalsStream.compose(
   reduce((accumulator, goal) => {
     if (!accumulator[goal.team]) accumulator[goal.team] = []
