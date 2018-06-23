@@ -1,4 +1,4 @@
-# xstream-reduce
+# xstream-from-readable
 
 Turns a Node.js Readable stream into an Xstream
 
