@@ -1,6 +1,6 @@
 {
   "name": "xstream-reduce",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reduces an stream into a single value",
   "homepage": "https://github.com/cprecioso/xstream-operators/tree/master/packages/reduce#readme",
   "bugs": {
