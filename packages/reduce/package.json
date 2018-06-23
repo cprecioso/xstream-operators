@@ -1,0 +1,32 @@
+{
+  "name": "xstream-reduce",
+  "version": "0.0.0",
+  "description": "Reduces an stream into a single value",
+  "homepage": "https://github.com/cprecioso/xstream-operators/tree/master/packages/reduce#readme",
+  "bugs": {
+    "url": "https://github.com/cprecioso/xstream-operators/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprecioso/xstream-operators.git"
+  },
+  "license": "MIT",
+  "author": "Carlos Precioso <kalprestito@gmail.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.2",
+    "xstream": "^11.7.0"
+  },
+  "peerDependencies": {
+    "xstream": "^11.7.0"
+  }
+}

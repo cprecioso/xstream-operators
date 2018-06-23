@@ -1,0 +1,22 @@
+{
+  "name": "xstream-operators",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A collection of useful functions for operating on xstream streams",
+  "homepage": "https://github.com/cprecioso/xstream-operators#readme",
+  "bugs": {
+    "url": "https://github.com/cprecioso/xstream-operators/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprecioso/xstream-operators.git"
+  },
+  "license": "MIT",
+  "author": "Carlos Precioso <kalprestito@gmail.com>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
+}
