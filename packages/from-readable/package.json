@@ -2,6 +2,11 @@
   "name": "xstream-from-readable",
   "version": "0.0.2",
   "description": "Turns a Node.js Readable into an Xstream",
+  "keywords": [
+    "readable",
+    "stream",
+    "xstream"
+  ],
   "homepage": "https://github.com/cprecioso/xstream-operators/tree/master/packages/from-readable#readme",
   "bugs": {
     "url": "https://github.com/cprecioso/xstream-operators/issues"
@@ -28,6 +33,6 @@
     "xstream": "^11.7.0"
   },
   "peerDependencies": {
-    "xstream": "^11.7.0"
+    "xstream": "11.x"
   }
 }

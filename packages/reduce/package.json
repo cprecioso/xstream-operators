@@ -2,6 +2,11 @@
   "name": "xstream-reduce",
   "version": "0.0.1",
   "description": "Reduces an stream into a single value",
+  "keywords": [
+    "promise",
+    "reduce",
+    "xstream"
+  ],
   "homepage": "https://github.com/cprecioso/xstream-operators/tree/master/packages/reduce#readme",
   "bugs": {
     "url": "https://github.com/cprecioso/xstream-operators/issues"
@@ -27,6 +32,6 @@
     "xstream": "^11.7.0"
   },
   "peerDependencies": {
-    "xstream": "^11.7.0"
+    "xstream": "11.x"
   }
 }
