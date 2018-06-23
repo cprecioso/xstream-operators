@@ -1,6 +1,6 @@
 {
   "name": "xstream-from-readable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Turns a Node.js Readable into an Xstream",
   "keywords": [
     "readable",

@@ -1,6 +1,6 @@
 {
   "name": "xstream-reduce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reduces an stream into a single value",
   "keywords": [
     "promise",
