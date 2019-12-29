@@ -27,10 +27,6 @@
     "prepublish": "npm run build",
     "watch": "tsc --watch"
   },
-  "devDependencies": {
-    "typescript": "^2.9.2",
-    "xstream": "^11.7.0"
-  },
   "peerDependencies": {
     "xstream": "11.x"
   }
