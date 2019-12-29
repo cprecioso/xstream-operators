@@ -22,8 +22,7 @@ function fromReadable<T = any>(
     dataEventName = "data",
     endEventName = "end",
     errorEventName = "error"
-  } =
-    options || {}
+  } = options || {}
 
   const data$ = fromEvent<T>(stream, dataEventName)
   const end$ = fromEvent<void>(stream, endEventName).take(1)
