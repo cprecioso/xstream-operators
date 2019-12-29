@@ -23,7 +23,7 @@
     "prettier": "^1.19.1",
     "prettier-plugin-packagejson": "^2.0.6",
     "pretty-quick": "^2.0.1",
-    "typescript": "^2.9.2",
+    "typescript": "^3.7.4",
     "xstream": "^11.7.0"
   },
   "husky": {
